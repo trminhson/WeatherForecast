@@ -1,0 +1,3 @@
+** Quan and Khoa will work directly with this file in order to maniplulate the signup and login function for website. 
+    - Khoa will frequently update for Front-end and JS. 
+    - Quan can setup the Back-end algorithm. You should create A feature Branch anch and Pull Request in order for us to test out the workability with database and responsive of Front-end. If eveythings work fine. We will merge to Master Branch
